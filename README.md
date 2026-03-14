@@ -12,22 +12,23 @@
 
 ## Full Stack Web Projects:
 
-1. [Bailey Ladders](https://www.baileyladders.com.au/): Live Website Link
-2. [CDW Studios](https://cdwstudios.com/): Live Website Link
-3. [Robin Eley](https://www.robineley.com/): Live Website Link
-4. [Rezz](https://www.rezz.com.au/): Live Website Link
-5. [EFM](https://efm.net.au/): Live Website Link
-6. [Steed Form](http://steedform.com/): Live Website Link
-7. [Nicholas Jose Website](http://www.nicholasjose.com.au/): Live Website Link
-8. [Café Galilee Website](https://web.archive.org/web/20190307133155/http://www.cafe-galilee.com/index.html): Archive Link
-9. [Mighty Host Website](https://web.archive.org/web/20220219200249/http://mightyhost.com.au/): Archive Link
-10. [Cancer Book Website](https://web.archive.org/web/20130507031825/http://cancerwhatnow.com.au/): Archive Link
-11. [Canoe It](https://web.archive.org/web/20140518143442/http://www.canoeit.com.au/): Archive Link
-12. [BXP](https://web.archive.org/web/20170219165651/http://www.bxpinternational.com.au/): Archive Link
-13. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): Archive Link
-14. [Fish Recruiting Website](https://web.archive.org/web/20220318181427/http://fishrecruiting.com.au/): Archive Link
-15. [MRCSA](https://web.archive.org/web/20150227052234/http://mrcsa.com.au/): Archive Link
-16. [Video Library](https://github.com/shehzadahmedqureshi/Video-Library): Github Link
+1. [The ART Academy](https://www.artacademy.com.au/): Live Website Link
+2. [Bailey Ladders](https://www.baileyladders.com.au/): Live Website Link
+3. [CDW Studios](https://cdwstudios.com/): Live Website Link
+4. [Robin Eley](https://www.robineley.com/): Live Website Link
+5. [Rezz](https://www.rezz.com.au/): Live Website Link
+6. [EFM](https://efm.net.au/): Live Website Link
+7. [Steed Form](http://steedform.com/): Live Website Link
+8. [Nicholas Jose Website](http://www.nicholasjose.com.au/): Live Website Link
+9. [Café Galilee Website](https://web.archive.org/web/20190307133155/http://www.cafe-galilee.com/index.html): Archive Link
+10. [Mighty Host Website](https://web.archive.org/web/20220219200249/http://mightyhost.com.au/): Archive Link
+11. [Cancer Book Website](https://web.archive.org/web/20130507031825/http://cancerwhatnow.com.au/): Archive Link
+12. [Canoe It](https://web.archive.org/web/20140518143442/http://www.canoeit.com.au/): Archive Link
+13. [BXP](https://web.archive.org/web/20170219165651/http://www.bxpinternational.com.au/): Archive Link
+14. [4 Life](https://web.archive.org/web/20120222005048/http://4lifetraining.com.au/): Archive Link
+15. [Fish Recruiting Website](https://web.archive.org/web/20220318181427/http://fishrecruiting.com.au/): Archive Link
+16. [MRCSA](https://web.archive.org/web/20150227052234/http://mrcsa.com.au/): Archive Link
+17. [Video Library](https://github.com/shehzadahmedqureshi/Video-Library): Github Link
 
 **Note:** Some of the web projects link to archived versions of the websites because the businesses are no longer operating. As a result, these archived pages may load more slowly than live websites. Additionally, some clients may have updated or redesigned their websites after my work was completed, so the current versions may differ from the original work delivered.
 
