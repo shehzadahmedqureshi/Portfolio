@@ -2,13 +2,13 @@
 
 ## Agentic & Generative AI Projects:
 
-1. [RAG-Based-Medical-Assistant](https://github.com/shehzadahmedqureshi/RAG-Based-Medical-Assistant): RAG-Based Medical Assistant built with Next.js, FastAPI, ChromaDB, and LangChain.
-2. [Multi-Modal-Voice-AI-Agent](https://github.com/shehzadahmedqureshi/Multi-Modal-Voice-AI-Agent): It is multimodal voice AI project. You can upload an image and record a voice to get a response from LLM in the form of voice.
-3. [AI-Powered-Travel-Planning-Agent](https://github.com/shehzadahmedqureshi/AI-Powered-Travel-Planning-Agent): AI Travel Planner — An intelligent assistant that helps users plan personalized trips by searching flights, finding hotels, and generating daily itineraries with real activities. Users can request any combination: flights, hotels, itineraries, or all together.
-4. [Financial-Analyst-Agent](https://github.com/shehzadahmedqureshi/Financial-Analyst-Agent): FastAPI service powered by LangGraph to answer due-diligence questions grounded in a local mini-corpus.
-5. [AI-Powered-Text-To-SQL-Data-Analyst](https://github.com/shehzadahmedqureshi/AI-Powered-Text-To-SQL-Data-Analyst): End-to-end Text-to-SQL analytics demo with Groq LLM, FastAPI API, and Next.js UI.
-6. [AI-Powered-Company-Research-Assistant](https://github.com/shehzadahmedqureshi/AI-Powered-Company-Research-Assistant): Remix-based app that scrapes company websites and leverages OpenAI to generate intelligent answers to user queries.
-7. [Web-Search-AI-Agent](https://github.com/shehzadahmedqureshi/Web-Search-AI-Agent): You can define your own agent and use the web search as a tool.
+1. [RAG Based Medical Assistant](https://github.com/shehzadahmedqureshi/RAG-Based-Medical-Assistant): RAG-Based Medical Assistant built with Next.js, FastAPI, ChromaDB, and LangChain.
+2. [Multi Modal Voice AI Agent](https://github.com/shehzadahmedqureshi/Multi-Modal-Voice-AI-Agent): It is multimodal voice AI project. You can upload an image and record a voice to get a response from LLM in the form of voice.
+3. [AI-Powered Travel Planning Agent](https://github.com/shehzadahmedqureshi/AI-Powered-Travel-Planning-Agent): AI Travel Planner — An intelligent assistant that helps users plan personalized trips by searching flights, finding hotels, and generating daily itineraries with real activities. Users can request any combination: flights, hotels, itineraries, or all together.
+4. [Financial Analyst Agent](https://github.com/shehzadahmedqureshi/Financial-Analyst-Agent): FastAPI service powered by LangGraph to answer due-diligence questions grounded in a local mini-corpus.
+5. [AI-Powered Text To SQL Data Analyst](https://github.com/shehzadahmedqureshi/AI-Powered-Text-To-SQL-Data-Analyst): End-to-end Text-to-SQL analytics demo with Groq LLM, FastAPI API, and Next.js UI.
+6. [AI-Powered Company Research Assistant](https://github.com/shehzadahmedqureshi/AI-Powered-Company-Research-Assistant): Remix-based app that scrapes company websites and leverages OpenAI to generate intelligent answers to user queries.
+7. [Web Search AI Agent](https://github.com/shehzadahmedqureshi/Web-Search-AI-Agent): You can define your own agent and use the web search as a tool.
 
 ## Full Stack Web Projects:
 
