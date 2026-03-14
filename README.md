@@ -8,7 +8,7 @@
 4. [Financial Analyst Agent](https://github.com/shehzadahmedqureshi/Financial-Analyst-Agent): FastAPI service powered by LangGraph to answer due-diligence questions grounded in a local mini-corpus.
 5. [AI-Powered Text To SQL Data Analyst](https://github.com/shehzadahmedqureshi/AI-Powered-Text-To-SQL-Data-Analyst): End-to-end Text-to-SQL analytics demo with Groq LLM, FastAPI API, and Next.js UI.
 6. [AI-Powered Company Research Assistant](https://github.com/shehzadahmedqureshi/AI-Powered-Company-Research-Assistant): Remix-based app that scrapes company websites and leverages OpenAI to generate intelligent answers to user queries.
-7. [Web Search AI Agent](https://github.com/shehzadahmedqureshi/Web-Search-AI-Agent): You can define your own agent and use the web search as a tool.
+7. [Web Search AI Agent](https://github.com/shehzadahmedqureshi/Web-Search-AI-Agent): In this project, you can define your own agent and use the web search as a tool.
 
 ## Full Stack Web Projects:
 
