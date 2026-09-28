@@ -2,13 +2,15 @@
 
 ## Agentic & Generative AI Projects:
 
-1. [RAG Based Medical Assistant](https://github.com/shehzadahmedqureshi/RAG-Based-Medical-Assistant): RAG-Based Medical Assistant built with Next.js, FastAPI, ChromaDB, and LangChain.
-2. [Multi Modal Voice AI Agent](https://github.com/shehzadahmedqureshi/Multi-Modal-Voice-AI-Agent): It is multimodal voice AI project. You can upload an image and record a voice to get a response from LLM in the form of voice.
-3. [AI-Powered Travel Planning Agent](https://github.com/shehzadahmedqureshi/AI-Powered-Travel-Planning-Agent): AI Travel Planner — An intelligent assistant that helps users plan personalized trips by searching flights, finding hotels, and generating daily itineraries with real activities. Users can request any combination: flights, hotels, itineraries, or all together.
-4. [Financial Analyst Agent](https://github.com/shehzadahmedqureshi/Financial-Analyst-Agent): FastAPI service powered by LangGraph to answer due-diligence questions grounded in a local mini-corpus.
-5. [AI-Powered Text To SQL Data Analyst](https://github.com/shehzadahmedqureshi/AI-Powered-Text-To-SQL-Data-Analyst): End-to-end Text-to-SQL analytics demo with Groq LLM, FastAPI API, and Next.js UI.
-6. [AI-Powered Company Research Assistant](https://github.com/shehzadahmedqureshi/AI-Powered-Company-Research-Assistant): Remix-based app that scrapes company websites and leverages OpenAI to generate intelligent answers to user queries.
-7. [Web Search AI Agent](https://github.com/shehzadahmedqureshi/Web-Search-AI-Agent): In this project, you can define your own agent and use the web search as a tool.
+1.[Vigiloop — Agentic AI Personal Safety Platform](https://www.vigiloop.online/): A multimodal, agentic AI safety platform that analyses text, images, and audio to provide practical situation guidance. It also manages timed safety check-ins, tracks location during active sessions, and automatically escalates missed check-ins to trusted contacts. Built with LangChain agents, Gemini, FastAPI, Next.js, PostgreSQL, and QStash.
+2. [RAG Based Medical Assistant](https://github.com/shehzadahmedqureshi/RAG-Based-Medical-Assistant): RAG-Based Medical Assistant built with Next.js, FastAPI, ChromaDB, and LangChain.
+3. [Multi Modal Voice AI Agent](https://github.com/shehzadahmedqureshi/Multi-Modal-Voice-AI-Agent): It is multimodal voice AI project. You can upload an image and record a voice to get a response from LLM in the form of voice.
+4. [AI-Powered Travel Planning Agent](https://github.com/shehzadahmedqureshi/AI-Powered-Travel-Planning-Agent): AI Travel Planner — An intelligent assistant that helps users plan personalized trips by searching flights, finding hotels, and generating daily itineraries with real activities. Users can request any combination: flights, hotels, itineraries, or all together.
+5. [Financial Analyst Agent](https://github.com/shehzadahmedqureshi/Financial-Analyst-Agent): FastAPI service powered by LangGraph to answer due-diligence questions grounded in a local mini-corpus.
+6. [AI-Powered Text To SQL Data Analyst](https://github.com/shehzadahmedqureshi/AI-Powered-Text-To-SQL-Data-Analyst): End-to-end Text-to-SQL analytics demo with Groq LLM, FastAPI API, and Next.js UI.
+7. [AI-Powered Company Research Assistant](https://github.com/shehzadahmedqureshi/AI-Powered-Company-Research-Assistant): Remix-based app that scrapes company websites and leverages OpenAI to generate intelligent answers to user queries.
+8. [Web Search AI Agent](https://github.com/shehzadahmedqureshi/Web-Search-AI-Agent): In this project, you can define your own agent and use the web search as a tool.
+9. [Agentic PowerPoint design assistant](https://github.com/shehzadahmedqureshi/Agentic-PowerPoint-Design-Assistant): Agentic PowerPoint design assistant that inspects slide structure, reasons about layout compatibility, and retrieves matching designs from a local library without embedding raw slide text.
 
 ## Full Stack Web Projects:
 
