@@ -34,7 +34,7 @@ Remix-based app that scrapes company websites and leverages OpenAI to generate i
 
 In this project, you can define your own agent and use the web search as a tool.
 
-### 9. [Agentic PowerPoint design assistant](https://github.com/shehzadahmedqureshi/Agentic-PowerPoint-Design-Assistant)
+### 9. [Agentic PowerPoint Design Assistant](https://github.com/shehzadahmedqureshi/Agentic-PowerPoint-Design-Assistant)
 
 Agentic PowerPoint design assistant that inspects slide structure, reasons about layout compatibility, and retrieves matching designs from a local library without embedding raw slide text.
 
