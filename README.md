@@ -49,7 +49,6 @@ Agentic PowerPoint design assistant that inspects slide structure, reasons about
 7. **[Steed Form](http://steedform.com/)** — Live website
 8. **[Ricky Rocks](https://rickyrocks.com/)** — Live website
 9. **[Bridget Curie](https://www.bridgetcurrie.com/)** — Live website
-10. **[Intangible](http://www.intangible.co/)** — Live website
 11. **[Nicholas Jose Website](http://www.nicholasjose.com.au/)** — Live website
 12. **[Café Galilee Website](https://web.archive.org/web/20190307133155/http://www.cafe-galilee.com/index.html)** — Archived website
 13. **[Mighty Host Website](https://web.archive.org/web/20220219200249/http://mightyhost.com.au/)** — Archived website
